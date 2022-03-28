@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Number_guessing_game", "Number_guessing_game\Number_guessing_game.vcxproj", "{86AB385A-D6E4-4E63-BCE5-93875BE9D447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AB385A-D6E4-4E63-BCE5-93875BE9D447}.Debug|x64.ActiveCfg = Debug|x64
+		{86AB385A-D6E4-4E63-BCE5-93875BE9D447}.Debug|x64.Build.0 = Debug|x64
+		{86AB385A-D6E4-4E63-BCE5-93875BE9D447}.Debug|x86.ActiveCfg = Debug|Win32
+		{86AB385A-D6E4-4E63-BCE5-93875BE9D447}.Debug|x86.Build.0 = Debug|Win32
+		{86AB385A-D6E4-4E63-BCE5-93875BE9D447}.Release|x64.ActiveCfg = Release|x64
+		{86AB385A-D6E4-4E63-BCE5-93875BE9D447}.Release|x64.Build.0 = Release|x64
+		{86AB385A-D6E4-4E63-BCE5-93875BE9D447}.Release|x86.ActiveCfg = Release|Win32
+		{86AB385A-D6E4-4E63-BCE5-93875BE9D447}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1023FA22-21FB-4BB7-97ED-1B67EAE9BBD8}
+	EndGlobalSection
+EndGlobal
